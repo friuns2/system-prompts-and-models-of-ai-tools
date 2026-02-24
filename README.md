@@ -1,8 +1,8 @@
-<div align="center">
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Rovo Dev Cli & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models**
 
 # 🔥 System Prompts & Models of AI Tools
 
-### 🚀 The Prompt Leak Megavault Is Real 🚀
+🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia browser, Rovo Dev Cli & Trae AI system prompts and internal tools.**
 
 [![Repo](https://img.shields.io/badge/Repo-system--prompts--and--models--of--ai--tools-black?style=for-the-badge&logo=github)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools)
 [![Status](https://img.shields.io/badge/Status-🔥%20LIVE-brightgreen?style=for-the-badge)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools)
@@ -20,8 +20,10 @@
 - **Windsurf Agent folder**
 - **VSCode (Copilot) Agent folder**
 - **Cursor Folder**
-- **Mistral Folder**
-- **Open Source prompts folder**
+- **Dia Folder**
+- **Rovo Dev Cli (Atlassian) Folder**
+- **Trae AI Folder**
+- **Open Source prompts Folder**
   - Codex CLI
   - Cline
   - Bolt
