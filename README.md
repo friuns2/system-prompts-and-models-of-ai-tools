@@ -1,123 +1,147 @@
-<p align="center">
-  Support my work here: 
-  <a href="https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Bags.fm</a> •
-  <a href="https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Jupiter</a> •
-  <a href="https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=">Photon</a> •
-  <a href="https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5">DEXScreener</a>
-</p>
+<div align="center">
 
-<p align="center">Official CA: DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS (on Solana)</p>
+# 🔥 System Prompts & Models of AI Tools
 
----
-<p align="center">
-  <sub>Special thanks to</sub>  
-</p>
+### 🚀 The Prompt Leak Megavault Is Real 🚀
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship#gh-light-mode-only" target="_blank">
-        <img src="assets/tembo-dark.png#gh-light-mode-only" alt="Tembo Logo" width="750" height="210"/>
-      </a>
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship#gh-dark-mode-only" target="_blank">
-        <img src="assets/tembo-light.png#gh-dark-mode-only" alt="Tembo Logo" width="750" height="210"/>
-      </a>
-      <br><br>
-      <strong><a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Put any coding agent to work while you sleep</a></strong>
-      <br>
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Tembo – The Background Coding Agents Company</a>
-      <br><br>
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">[Get started for free]</a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">
-        <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="750" height="210"/>
-      </a>
-      <br><br>
-      <strong><a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Make your LLM predictable in production</a></strong>
-      <br>
-      <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Open Source AI Engineering Platform</a>
-      <br><br>
-      &nbsp;
-    </td>
-  </tr>
-</table>
+[![Repo](https://img.shields.io/badge/Repo-system--prompts--and--models--of--ai--tools-black?style=for-the-badge&logo=github)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools)
+[![Status](https://img.shields.io/badge/Status-🔥%20LIVE-brightgreen?style=for-the-badge)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools)
+[![Stars](https://img.shields.io/github/stars/friuns2/system-prompts-and-models-of-ai-tools?style=for-the-badge&logo=github&color=gold)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools/stargazers)
+[![Forks](https://img.shields.io/github/forks/friuns2/system-prompts-and-models-of-ai-tools?style=for-the-badge&logo=github&color=blue)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools/network)
+[![License](https://img.shields.io/badge/License-GPLv3-yellow?style=for-the-badge)](./LICENSE.md)
+
+> **Thousands of lines of real-world system prompts.**
+> **One repo. Many agents. Zero fluff.**
+
+```text
+███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
+██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
+███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
+╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
+███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
+╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+```
+
+`P R O M P T   I N T E L L I G E N C E   A R C H I V E`
+
+</div>
 
 ---
 
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
-</a>
+## 🤯 What Is This?
+> **The main event.**
 
+This repository archives prompts, tools, and behavior configs used by major AI products and coding agents.
 
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+Need to inspect how these systems actually think? This is the place. Yes, that's vendor prompts. Yes, that's tool manifests.
 
-📜 Over **30,000+ lines** of insights into their structure and functionality.  
-
-
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+**TL;DR 🧠: one command to rule your prompt research workflow.**
 
 ---
 
-## ❤️ Support the Project
+## 🆕 New: OpenAI Codex App Prompt
+> **Freshly extracted. Fully documented.**
 
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
-
-You can show your support via:
-
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-- **Ko-fi:** https://ko-fi.com/lucknite
-
-🙏 Thank you for your support!
+- 📂 Added folder: [`openai`](./openai)
+- 📜 Added file: [`openai/codex-desktop-app-context.md`](./openai/codex-desktop-app-context.md)
+- 🧪 Source: extracted from Codex desktop app bundle (`app.asar`)
 
 ---
 
-# Sponsors
+## 🌍 What Can You Do With This?
+> **Use cases that actually ship.**
 
-Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
-
-[Get Started](mailto:lucknitelol@proton.me)
-
----
-
-## 🛠 Roadmap & Feedback
-
-> Open an issue.
-
-> **Latest Update:** 08/01/2026
-
----
-
-## 🔗 Connect With Me
-
-- **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xhlol`
-- **Email**: `lucknitelol@pm.me`
+| Emoji | Use Case | Why It Matters |
+|---|---|---|
+| 🔬 | Prompt forensics | Compare agent behavior across vendors |
+| 🧠 | Safety audits | Find hidden policy constraints fast |
+| 🛠️ | Agent tuning | Adapt your own prompts from real systems |
+| 🧯 | Incident response | Trace bad behavior to instruction layers |
+| 📚 | Research | Build datasets for prompt engineering studies |
+| 🧪 | Benchmarks | Test the same task under different system prompts |
+| ⚔️ | Red teaming | Stress-test tool exposure and boundaries |
+| 🧩 | Product strategy | Map competitor assistant UX and tone |
 
 ---
 
-## 🛡️ Security Notice for AI Startups
+## ⚡ Quick Start
+> **Clone. Inspect. Ship.**
 
-> ⚠️ **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
-
-> 🔐 **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
+```bash
+git clone https://github.com/friuns2/system-prompts-and-models-of-ai-tools.git
+cd system-prompts-and-models-of-ai-tools
+# 🔓 Do the thing
+rg -n "Codex|Claude|Gemini|system prompt" .
+```
 
 ---
 
-## 📊 Star History
+## 📁 Project Structure
+> **Big vault. Clean sections.**
 
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
+```text
+📁 system-prompts-and-models-of-ai-tools/
+├── 📂 openai/
+│   └── 📖 codex-desktop-app-context.md
+├── 📂 Anthropic/
+├── 📂 Cursor Prompts/
+├── 📂 Google/
+├── 📂 VSCode Agent/
+├── 📂 Open Source prompts/
+└── 📖 README.md
+```
 
-⭐ **Drop a star if you find this useful!**
+---
+
+## 🏗️ Architecture
+> **From app binary to markdown artifact.**
+
+```text
+┌──────────────────────────────┐
+│ 🖥️ Vendor App Bundle (asar) │
+└──────────────┬───────────────┘
+               │ extract prompt
+               ▼
+┌──────────────────────────────┐
+│ 🧹 normalize + preserve text │
+└──────────────┬───────────────┘
+               │ commit artifact
+               ▼
+┌──────────────────────────────┐
+│ 📚 searchable prompt archive │
+└──────────────────────────────┘
+```
+
+---
+
+## 🎯 Requirements
+
+- 🧰 `git`
+- ⚡ `rg` (ripgrep)
+- 🧪 Optional: `jq`, `gh`
+
+## 🐛 Troubleshooting
+
+| Problem | Solution |
+|---|---|
+| Can’t find a prompt file | Use `rg --files | rg -i "prompt|tools|system"` |
+| Repo too large to scan mentally | Focus by vendor folder first |
+| Need latest upstream changes | `git remote add upstream ... && git pull upstream main` |
+
+## 🤝 Contributing
+
+Open a PR with clear provenance and exact extraction steps.
+
+## ⭐ Star This Repo
+
+If you believe prompt transparency should be standard, smash that star button. ⭐
+
+---
+
+<div align="center">
+
+**Built for prompt archaeologists** 🔬
+
+*They shipped it. We documented it. 😏*
+
+</div>
