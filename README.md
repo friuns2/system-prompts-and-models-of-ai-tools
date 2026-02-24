@@ -10,21 +10,22 @@
 [![Forks](https://img.shields.io/github/forks/friuns2/system-prompts-and-models-of-ai-tools?style=for-the-badge&logo=github&color=blue)](https://github.com/friuns2/system-prompts-and-models-of-ai-tools/network)
 [![License](https://img.shields.io/badge/License-GPLv3-yellow?style=for-the-badge)](./LICENSE.md)
 
-> **Thousands of lines of real-world system prompts.**
-> **One repo. Many agents. Zero fluff.**
-
-```text
-███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
-██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
-███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
-╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
-███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
-╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
-```
-
-`P R O M P T   I N T E L L I G E N C E   A R C H I V E`
-
-</div>
+## 📂 **Available Files**
+- **v0 Folder**  
+- **Manus Folder**
+- **Lovable Folder**
+- **Devin Folder**
+- **Same.dev Folder**
+- **Replit Folder**
+- **Windsurf Agent folder**
+- **VSCode (Copilot) Agent folder**
+- **Cursor Folder**
+- **Mistral Folder**
+- **Open Source prompts folder**
+  - Codex CLI
+  - Cline
+  - Bolt
+  - RooCode
 
 ---
 
