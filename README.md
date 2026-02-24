@@ -1,4 +1,10 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Rovo Dev Cli & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models**
+<p align="center">
+  Support my work here:  
+  [Bags.fm](https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS) •
+  [Jupiter](https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS) •
+  [Photon](https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=) •
+  [DEXScreener](https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5)
+</p>
 
 # 🔥 System Prompts & Models of AI Tools
 
